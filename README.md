@@ -17,7 +17,8 @@
 
 
 ## نرم‌افزار
-![image](https://github.com/cc-Mehdi/AppsInstaller/assets/57840939/4bd1d1c4-592c-4f0b-bc3e-ee6cab6b4205) ![image](https://github.com/cc-Mehdi/AppsInstaller/assets/57840939/42ad5e48-3019-4fa7-a3a9-d2305e03b230)
+![image](https://github.com/cc-Mehdi/Accounting-WinForms/assets/57840939/8d4e4b81-d1ef-4694-b399-11c70a66eb39)
+
 
 
 
