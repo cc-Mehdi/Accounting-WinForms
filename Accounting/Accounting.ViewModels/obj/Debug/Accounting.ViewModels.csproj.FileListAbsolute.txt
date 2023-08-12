@@ -1,0 +1,11 @@
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.dll
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.pdb
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.dll
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.pdb
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.csprojResolveAssemblyReference.cache
+E:\Accounting\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.dll
+E:\Accounting\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.pdb
+E:\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.csproj.AssemblyReference.cache
+E:\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.csproj.CoreCompileInputs.cache
+E:\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.dll
+E:\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.pdb

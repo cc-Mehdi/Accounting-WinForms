@@ -1,0 +1,26 @@
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.dll.config
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.dll
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.pdb
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.DataLayer\bin\Debug\EntityFramework.dll
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.DataLayer\bin\Debug\EntityFramework.xml
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.dll
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.pdb
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.DataLayer\bin\Debug\Accounting.ViewModels.dll
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.DataLayer\bin\Debug\Accounting.ViewModels.pdb
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.csprojResolveAssemblyReference.cache
+E:\Accounting\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.dll.config
+E:\Accounting\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.dll
+E:\Accounting\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.pdb
+E:\Accounting\Accounting.DataLayer\bin\Debug\Accounting.ViewModels.dll
+E:\Accounting\Accounting.DataLayer\bin\Debug\EntityFramework.dll
+E:\Accounting\Accounting.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Accounting\Accounting.DataLayer\bin\Debug\Accounting.ViewModels.pdb
+E:\Accounting\Accounting.DataLayer\bin\Debug\EntityFramework.xml
+E:\Accounting\Accounting.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Accounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.csproj.AssemblyReference.cache
+E:\Accounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.csproj.CoreCompileInputs.cache
+E:\Accounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.csproj.CopyComplete
+E:\Accounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.dll
+E:\Accounting\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.pdb

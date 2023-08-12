@@ -1,0 +1,25 @@
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.Business\bin\Debug\Accounting.Business.dll
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.Business\bin\Debug\Accounting.Business.pdb
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.Business\obj\Debug\Accounting.Business.dll
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.Business\obj\Debug\Accounting.Business.pdb
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csprojResolveAssemblyReference.cache
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.Business\bin\Debug\Accounting.DataLayer.dll
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.Business\bin\Debug\Accounting.ViewModels.dll
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.Business\bin\Debug\EntityFramework.dll
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.Business\bin\Debug\Accounting.DataLayer.pdb
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.Business\bin\Debug\Accounting.ViewModels.pdb
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.Business\bin\Debug\EntityFramework.xml
+E:\Accounting\Accounting.Business\bin\Debug\Accounting.Business.dll
+E:\Accounting\Accounting.Business\bin\Debug\Accounting.Business.pdb
+E:\Accounting\Accounting.Business\bin\Debug\Accounting.DataLayer.dll
+E:\Accounting\Accounting.Business\bin\Debug\Accounting.ViewModels.dll
+E:\Accounting\Accounting.Business\bin\Debug\EntityFramework.dll
+E:\Accounting\Accounting.Business\bin\Debug\Accounting.DataLayer.pdb
+E:\Accounting\Accounting.Business\bin\Debug\Accounting.DataLayer.dll.config
+E:\Accounting\Accounting.Business\bin\Debug\Accounting.ViewModels.pdb
+E:\Accounting\Accounting.Business\bin\Debug\EntityFramework.xml
+E:\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csproj.AssemblyReference.cache
+E:\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csproj.CoreCompileInputs.cache
+E:\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csproj.CopyComplete
+E:\Accounting\Accounting.Business\obj\Debug\Accounting.Business.dll
+E:\Accounting\Accounting.Business\obj\Debug\Accounting.Business.pdb

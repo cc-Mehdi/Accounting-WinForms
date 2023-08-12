@@ -1,0 +1,11 @@
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.Utility\bin\Debug\Accounting.Utility.dll
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.Utility\bin\Debug\Accounting.Utility.pdb
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.dll
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.pdb
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.csprojResolveAssemblyReference.cache
+E:\Accounting\Accounting.Utility\bin\Debug\Accounting.Utility.dll
+E:\Accounting\Accounting.Utility\bin\Debug\Accounting.Utility.pdb
+E:\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.csproj.AssemblyReference.cache
+E:\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.csproj.CoreCompileInputs.cache
+E:\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.dll
+E:\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.pdb

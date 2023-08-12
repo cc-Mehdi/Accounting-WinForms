@@ -1,0 +1,71 @@
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.App\bin\Debug\Accounting.App.exe.config
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.App\bin\Debug\Accounting.App.exe
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.App\bin\Debug\Accounting.App.pdb
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.App\obj\Debug\Accounting.App.csprojResolveAssemblyReference.cache
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.App\obj\Debug\Accounting.App.Properties.Resources.resources
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.GenerateResource.Cache
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.App\obj\Debug\Accounting.App.exe
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.App\obj\Debug\Accounting.App.pdb
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.App\obj\Debug\Accounting.App.Form1.resources
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.App\obj\Debug\Accounting.App.frmCustomers.resources
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.dll
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.App\bin\Debug\Accounting.Utility.dll
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.App\bin\Debug\EntityFramework.dll
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.pdb
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.App\bin\Debug\Accounting.Utility.pdb
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.App\bin\Debug\EntityFramework.xml
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.App\bin\Debug\EntityFramework.SqlServer.dll
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.App\bin\Debug\EntityFramework.SqlServer.xml
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.App\obj\Debug\Accounting.App.frmAddOrEditCustomer.resources
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.App\obj\Debug\Accounting.App.frmNewAccounting.resources
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.App\bin\Debug\Accounting.ViewModels.dll
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.App\bin\Debug\Accounting.ViewModels.pdb
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.App\obj\Debug\Accounting.App.Accounting.frmReport.resources
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.App\obj\Debug\Accounting.App.frmLogin.resources
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.App\bin\Debug\Stimulsoft.Base.dll
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.App\bin\Debug\Stimulsoft.Report.dll
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.App\bin\Debug\Stimulsoft.Base.xml
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.App\bin\Debug\Stimulsoft.Report.xml
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.App\bin\Debug\Stimulsoft.Controls.Win.dll
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.App\bin\Debug\Stimulsoft.Report.Win.dll
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.App\bin\Debug\Stimulsoft.Controls.dll
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.App\bin\Debug\Stimulsoft.Controls.xml
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.App\bin\Debug\Accounting.Business.dll
+D:\Drive C\Desktop2\C# Learn Pro\Codes\Accounting\Accounting.App\bin\Debug\Accounting.Business.pdb
+D:\Drive C\Desktop\Programming\Codes\C#_Codes\Accounting\Accounting.App\bin\Debug\Accounting.App.exe.config
+D:\Drive C\Desktop\Programming\Codes\C#_Codes\Accounting\Accounting.App\obj\Debug\Accounting.App.exe
+D:\Drive C\Desktop\Programming\Codes\C#_Codes\Accounting\Accounting.App\obj\Debug\Accounting.App.pdb
+E:\Accounting\Accounting.App\bin\Debug\Accounting.App.exe.config
+E:\Accounting\Accounting.App\bin\Debug\Accounting.App.exe
+E:\Accounting\Accounting.App\bin\Debug\Accounting.App.pdb
+E:\Accounting\Accounting.App\bin\Debug\Accounting.Business.dll
+E:\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.dll
+E:\Accounting\Accounting.App\bin\Debug\Accounting.Utility.dll
+E:\Accounting\Accounting.App\bin\Debug\Accounting.ViewModels.dll
+E:\Accounting\Accounting.App\bin\Debug\EntityFramework.dll
+E:\Accounting\Accounting.App\bin\Debug\EntityFramework.SqlServer.dll
+E:\Accounting\Accounting.App\bin\Debug\Stimulsoft.Controls.dll
+E:\Accounting\Accounting.App\bin\Debug\Accounting.Business.pdb
+E:\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.pdb
+E:\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.dll.config
+E:\Accounting\Accounting.App\bin\Debug\Accounting.Utility.pdb
+E:\Accounting\Accounting.App\bin\Debug\Accounting.ViewModels.pdb
+E:\Accounting\Accounting.App\bin\Debug\EntityFramework.xml
+E:\Accounting\Accounting.App\bin\Debug\EntityFramework.SqlServer.xml
+E:\Accounting\Accounting.App\bin\Debug\Stimulsoft.Base.xml
+E:\Accounting\Accounting.App\bin\Debug\Stimulsoft.Report.xml
+E:\Accounting\Accounting.App\bin\Debug\Stimulsoft.Controls.xml
+E:\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.AssemblyReference.cache
+E:\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.SuggestedBindingRedirects.cache
+E:\Accounting\Accounting.App\obj\Debug\Accounting.App.Accounting.frmReport.resources
+E:\Accounting\Accounting.App\obj\Debug\Accounting.App.Form1.resources
+E:\Accounting\Accounting.App\obj\Debug\Accounting.App.frmAddOrEditCustomer.resources
+E:\Accounting\Accounting.App\obj\Debug\Accounting.App.frmCustomers.resources
+E:\Accounting\Accounting.App\obj\Debug\Accounting.App.frmNewAccounting.resources
+E:\Accounting\Accounting.App\obj\Debug\Accounting.App.frmLogin.resources
+E:\Accounting\Accounting.App\obj\Debug\Accounting.App.Properties.Resources.resources
+E:\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.GenerateResource.cache
+E:\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.CoreCompileInputs.cache
+E:\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.CopyComplete
+E:\Accounting\Accounting.App\obj\Debug\Accounting.App.exe
+E:\Accounting\Accounting.App\obj\Debug\Accounting.App.pdb
