@@ -1,5 +1,4 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/cc-Mehdi/Accounting-WinForms)
-###### *در حال ساخت ... :)*
 
 # Accounting
 
